@@ -1,3 +1,4 @@
-*/*.png
-*/*.txt
-*/*.mkv
+*.png
+*.txt
+*.mkv
+*.jpg
