@@ -3,3 +3,4 @@
 *.mkv
 *.jpg
 *.mp4
+*__pycache__
