@@ -33,3 +33,7 @@ if will_rain:
     )
 
     print(message.status)
+
+
+# link for twilio: https://www.twilio.com/en-us
+# link for openweather : https://openweathermap.org/api
