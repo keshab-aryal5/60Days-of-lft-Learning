@@ -27,9 +27,9 @@ if will_rain:
     client = Client(account_sid, auth_token)
 
     message = client.messages.create(
-        from_='+12073679777',
+        from_='<virtual number provided by twilio',
         body="Pani parni wala xa xata lera jam hai aaja. ☔",
-        to='+9779869393678'
+        to='<number to send your messsage.This musst be a register mobile number in twilio>'
     )
 
     print(message.status)
