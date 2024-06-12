@@ -21,6 +21,6 @@ def get_weather(city_name, api_key):
 
 if __name__ == "__main__":
     city_name = input("Enter city name: ")
-    api_key = "d038dafe86e4cb38bca2a44ddcac2078"
+    api_key = "you api key"
   # Replace with your actual OpenWeatherMap API key
     get_weather(city_name, api_key)
