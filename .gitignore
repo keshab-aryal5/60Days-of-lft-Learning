@@ -7,3 +7,5 @@
 rough.py
 */.idea
 *.csv
+*.jpeg
+*.env
