@@ -1,0 +1,46 @@
+/* CSS Colours */
+body {
+    background-color: #f0f0f0;
+    color: #333333;
+}
+
+/* Font properties */
+header h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 2em;
+    color: #4CAF50;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.introduction p {
+    font-family: 'Georgia', serif;
+    font-size: 1.2em;
+    color: #555555;
+    text-align: center;
+}
+
+/* CSS Box Model */
+.box {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    width: calc(50% - 60px); /* 50% of the parent width minus margins and paddings */
+    float: left;
+}
+
+.box h2 {
+    font-family: 'Tahoma', sans-serif;
+    font-size: 1.5em;
+    color: #335511;
+}
+
+.box p {
+    font-family: 'Verdana', sans-serif;
+    font-size: 1em;
+    color: #666666;
+}
+
+/* Inspecting CSS: This section is just for learning purposes, no actual styles here */
